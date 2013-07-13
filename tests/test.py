@@ -1,6 +1,6 @@
-from instagram.client import Instagram
+from instagram_client import Instagram
 
-Instagram.KEY = "" # do NOT ask me for the key 
+Instagram.KEY = "" # do NOT ask me for the key
 Instagram.DEVICEID = "00000000-0000-0000-0000-000000000000"
 
 client = Instagram()

@@ -21,7 +21,7 @@ Before anything, you will need the key and a device id.
 
 First, import the client:
 
-	from instagram.client import Instagram
+	from instagram_client import Instagram
 
 Define the key and device id to user:
 

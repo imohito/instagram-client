@@ -8,7 +8,7 @@ config = {
 	'url': 'https://bitbucket.org/acoomans/instagram-client',
 	'author': 'Arnaud Coomans',
 	'install_requires': ['requests'],
-	'packages': ['instagram'],
+	'packages': ['instagram_client'],
 }
 
 setup(**config)
