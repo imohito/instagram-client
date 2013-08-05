@@ -8,9 +8,9 @@ from collections import OrderedDict
     
     
 class Service:
-    KEY = "" # do NOT ask me for the key 
-    KEY_VERSION = "3"
-    USERAGENT = "Instagram 3.5.1 (iPad2,5; iPhone OS 6_1; en_US; en) AppleWebKit/420+"
+    KEY = "" # do NOT ask me for the key
+    KEY_VERSION = "4"
+    USERAGENT = "Instagram 4.0.2 (iPad2,5; iPhone OS 6_1; en_US; en) AppleWebKit/420+"
     BOUNDARY = "Boundary+0xAbCdEfGbOuNdArY"
     DEVICEID = "00000000-0000-0000-0000-000000000000"
     
