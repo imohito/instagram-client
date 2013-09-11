@@ -9,6 +9,7 @@ config = {
 	'author': 'Arnaud Coomans',
 	'install_requires': ['requests'],
 	'packages': ['instagram_client'],
+	'test_suite': 'tests.test_client',
 }
 
 setup(**config)

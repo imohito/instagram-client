@@ -36,6 +36,7 @@ class Service:
         print method, url, kwargs
         methodToCall = getattr(requests, method)
         r = methodToCall(url, **kwargs)
+        self.r = r
         self.keepCookies(r)
         return r
     
