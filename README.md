@@ -5,6 +5,13 @@ An instagram client to upload pictures on Instagram.
 
 This library is directly inspired from the official iOS Instagram app, by reverse engineering.
 
+Note that this client is for educational purposes only. The key needed to sign the requests has been purposely omitted.
+
+No warrantee nor support is offered for this client.
+
+*DO NOT CONTACT ME. I WILL NOT GIVE ANY SUPPORT NOR THE KEY*
+
+
 ## Install
 
 	python setup.py install
